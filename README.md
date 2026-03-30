@@ -63,4 +63,4 @@ I am an insightful young man driven to become a successful business leader in th
 
 ---
 **Mock Interview Video**
-https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing
+(https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
