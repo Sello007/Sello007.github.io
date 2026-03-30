@@ -53,10 +53,10 @@ I am an insightful young man driven to become a successful business leader in th
 
 ## 👥 References
 
-Name| **Mr. H. Botha** |
-Position ITSM Lecturer |
-Contact 082 729 4046 / Henniebotha8@gmail.com  |
+**Name**| Mr. H. Botha |
+**Position**| ITSM Lecturer |
+**Contact**| 082 729 4046 / Henniebotha8@gmail.com  |
 
-Name| **Mr. P. Msiza** |
-Position High School Principal |
-Contact 082 824 3377 / Msizaps78@gmail.com  |
+**Name**| Mr. P. Msiza |
+**Position**| High School Principal |
+**Contact**| 082 824 3377 / Msizaps78@gmail.com  |
