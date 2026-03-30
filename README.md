@@ -60,3 +60,6 @@ I am an insightful young man driven to become a successful business leader in th
 **Name**| Mr. P. Msiza |
 **Position**| High School Principal |
 **Contact**| 082 824 3377 / Msizaps78@gmail.com  |
+
+**Mock Interview Video**
+https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing
