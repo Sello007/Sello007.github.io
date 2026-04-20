@@ -1,0 +1,20 @@
+# Reflection: Use of GitHub Pages
+
+### Situation
+As a student pursuing a Diploma in ICT Network Communications at the Cape Peninsula University of Technology, I needed a professional hosting solution to present my digital portfolio. 
+The rubric specifically required a live deployment to showcase my work and technical readiness to the industry.
+
+### Task
+My objective was to utilize GitHub Pages to host my Markdown-coded CV and project reflections. 
+I aimed to ensure that my portfolio was functional, accessible, and professionally presented to secure the full weight allocated to the publication criteria in my assessment.
+
+### Action
+I took the following steps to deploy my portfolio:
+* **Repository Setup**: Created a dedicated repository on GitHub to manage and version-control my source files.
+* **Deployment Configuration**: Configured the repository settings to enable GitHub Pages, successfully turning my static Markdown code into a live, accessible website.
+* **Content Integration**: Integrated my professional experience, including key projects like the SANREN Cyber Security Challenge and Hierarchical Network Designs, into the hosted environment.
+* **Quality Assurance**: Verified that all links, images, and formatting remained intact during the transition from local files to the live web environment.
+
+### Result
+Successfully publishing on GitHub Pages resulted in a live, professional URL that serves as a central hub for my technical deliverables. 
+This process demonstrated my ability to handle version control and web deployment, proving my technical competency and readiness for a professional role in the ICT industry.
