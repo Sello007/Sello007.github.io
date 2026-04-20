@@ -65,3 +65,22 @@ I am an insightful young man driven to become a successful business leader in th
 **Mock Interview Video**
 
 (https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
+
+
+# Reflection: Coding my CV in Markdown
+
+### Situation
+As a Diploma in ICT Network Communications student at the Cape Peninsula University of Technology, I was required to create a professional digital portfolio. A key component was transforming my traditional resume into a web-ready format using Markdown Language for hosting on GitHub Pages.
+
+### Task
+My goal was to demonstrate technical proficiency by using code to structure my professional journey. I needed to clearly present my education, my expertise in tools like Wireshark and Packet Tracer, and my practical project experience, such as the SANREN Cyber Security Challenge.
+
+### Action
+I utilized specific Markdown syntax to ensure the document was both professional and highly readable:
+* **Headers**: To create a clear hierarchy between sections like Technical Skills and Work Objective.
+* **Bullet Points**: To organize my history at Madlayedwa Secondary School and my current diploma studies.
+* **Hyperlinks**: To provide a direct path to my interactive Google Sites e-portfolio.
+* **Formatting**: I applied bolding to emphasize core competencies like Linux and Putty to catch a recruiter's eye.
+
+### Result
+This process resulted in a clean, professional, and version-controlled CV that aligns with industry standards for technical documentation. Mastering Markdown has given me a versatile way to present my skills and ensures my portfolio meets the highest criteria for my digital rubric.
