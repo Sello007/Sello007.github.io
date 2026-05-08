@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sello Den Makunyane
+## Sello Den Makunyane
 
 </div>
 
