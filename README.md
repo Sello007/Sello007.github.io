@@ -86,9 +86,8 @@ I utilized specific Markdown syntax to ensure the document was both professional
 ### Result
 This process resulted in a clean, professional, and version-controlled CV that aligns with industry standards for technical documentation. Mastering Markdown has given me a versatile way to present my skills and ensures my portfolio meets the highest criteria for my digital rubric.
 
-
 ---
-
+<br><br>
  
    ## 🎥 <u>Mock Interview Video</u>
 
@@ -116,9 +115,8 @@ I used the STAR method to ensure my answers were grounded and specific:
 Recording and reviewing this interview helped me define myself as "Analytical." 
 It significantly boosted my confidence in explaining complex networking concepts and proved that I can remain calm and logical when faced with difficult technical or interpersonal scenarios.
 
-
 ---
-
+<br><br>
 
 ## 🌐 <u> Reflection: Use of GitHub Pages </u>
 
