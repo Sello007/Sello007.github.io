@@ -2,7 +2,6 @@
 
 # Sello Den Makunyane
 
----
 </div>
 
 ---
@@ -69,7 +68,7 @@ I am an insightful young man driven to become a successful business leader in th
 ---
 
 
-### 📝<u> Reflection: Coding my CV in Markdown</u>
+## 📝<u> Reflection: Coding my CV in Markdown</u>
 
 ### Situation
 As a Diploma in ICT Network Communications student at the Cape Peninsula University of Technology, I was required to create a professional digital portfolio. A key component was transforming my traditional resume into a web-ready format using Markdown Language for hosting on GitHub Pages.
@@ -91,13 +90,13 @@ This process resulted in a clean, professional, and version-controlled CV that a
 ---
 
  
-   ### 🎥 <u>Mock Interview Video</u>
+   ## 🎥 <u>Mock Interview Video</u>
 
 (https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
 
 ---
 
-### 🤝 <u> Reflection: Mock Interview Experience</u>
+## 🤝 <u> Reflection: Mock Interview Experience</u>
 
 ### Situation
 To prepare for my entry into the tech industry as an ICT professional, I conducted a mock interview to practice communicating my passion for network engineering and leadership. 
@@ -121,7 +120,7 @@ It significantly boosted my confidence in explaining complex networking concepts
 ---
 
 
-### 🌐 <u> Reflection: Use of GitHub Pages </u>
+## 🌐 <u> Reflection: Use of GitHub Pages </u>
 
 ### Situation
 As a student pursuing a Diploma in ICT Network Communications at the Cape Peninsula University of Technology, I needed a professional hosting solution to present my digital portfolio. 
