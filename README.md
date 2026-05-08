@@ -1,6 +1,4 @@
-# <div style="background-color: #f0f4f8; padding: 20px; text-align: center; border-radius: 10px;">
-  <h2 style="color: #2c3e50; margin: 0;">Sello Den Makunyane</h2>
-</div>
+<div style="border-bottom: 2px solid #333;">### Sello Den Makunyane</div>
 
 ---
 
@@ -66,11 +64,7 @@ I am an insightful young man driven to become a successful business leader in th
 ---
 
 
-# <div style="text-align: center; margin: 20px 0;">
-  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
-    Reflection: Coding my CV in Markdown
-  </h2>
-</div>
+### <u> Reflection: Coding my CV in Markdown</u>
 
 ### Situation
 As a Diploma in ICT Network Communications student at the Cape Peninsula University of Technology, I was required to create a professional digital portfolio. A key component was transforming my traditional resume into a web-ready format using Markdown Language for hosting on GitHub Pages.
@@ -81,29 +75,24 @@ My goal was to demonstrate technical proficiency by using code to structure my p
 ### Action
 I utilized specific Markdown syntax to ensure the document was both professional and highly readable:
 * **Headers**: To create a clear hierarchy between sections like Technical Skills and Work Objective.
-* **Bullet Points**: To organize my history at Madlayedwa Secondary School and my current diploma studies.
+* **Points**: To organize my history at Madlayedwa Secondary School and my current diploma studies.
 * **Hyperlinks**: To provide a direct path to my interactive Google Sites e-portfolio.
 * **Formatting**: I applied bolding to emphasize core competencies like Linux and Putty to catch a recruiter's eye.
 
 ### Result
 This process resulted in a clean, professional, and version-controlled CV that aligns with industry standards for technical documentation. Mastering Markdown has given me a versatile way to present my skills and ensures my portfolio meets the highest criteria for my digital rubric.
 
+
 ---
 
- <div style="text-align: center; margin: 20px 0;">
-  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
-   # Mock Interview Video
-  </h2>
-</div>
+ 
+   ### <u>Mock Interview Video</u>
 
 (https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
 
 ---
-<div style="text-align: center; margin: 20px 0;">
-  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
-   # Reflection: Mock Interview Experience
-  </h2>
-</div>
+
+### <u> Reflection: Mock Interview Experience</u>
 
 ### Situation
 To prepare for my entry into the tech industry as an ICT professional, I conducted a mock interview to practice communicating my passion for network engineering and leadership. 
@@ -123,12 +112,11 @@ I used the STAR method to ensure my answers were grounded and specific:
 Recording and reviewing this interview helped me define myself as "Analytical." 
 It significantly boosted my confidence in explaining complex networking concepts and proved that I can remain calm and logical when faced with difficult technical or interpersonal scenarios.
 
+
 ---
-<div style="text-align: center; margin: 20px 0;">
-  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
-    Reflection: Use of GitHub Pages
-  </h2>
-</div>
+
+
+### <u> Reflection: Use of GitHub Pages </u>
 
 ### Situation
 As a student pursuing a Diploma in ICT Network Communications at the Cape Peninsula University of Technology, I needed a professional hosting solution to present my digital portfolio. 
