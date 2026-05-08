@@ -64,12 +64,13 @@ I am an insightful young man driven to become a successful business leader in th
 **Contact**| 082 824 3377 / Msizaps78@gmail.com  |
 
 ---
-**Mock Interview Video**
-
-(https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
 
 
-# Reflection: Coding my CV in Markdown
+# <div style="text-align: center; margin: 20px 0;">
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
+    Reflection: Coding my CV in Markdown
+  </h2>
+</div>
 
 ### Situation
 As a Diploma in ICT Network Communications student at the Cape Peninsula University of Technology, I was required to create a professional digital portfolio. A key component was transforming my traditional resume into a web-ready format using Markdown Language for hosting on GitHub Pages.
@@ -86,3 +87,66 @@ I utilized specific Markdown syntax to ensure the document was both professional
 
 ### Result
 This process resulted in a clean, professional, and version-controlled CV that aligns with industry standards for technical documentation. Mastering Markdown has given me a versatile way to present my skills and ensures my portfolio meets the highest criteria for my digital rubric.
+
+---
+
+ <div style="text-align: center; margin: 20px 0;">
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
+   # Mock Interview Video
+  </h2>
+</div>
+
+(https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
+
+---
+<div style="text-align: center; margin: 20px 0;">
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
+   # Reflection: Mock Interview Experience
+  </h2>
+</div>
+
+### Situation
+To prepare for my entry into the tech industry as an ICT professional, I conducted a mock interview to practice communicating my passion for network engineering and leadership. 
+This served as a practical exercise to bridge the gap between my technical studies and professional persona.
+
+### Task
+The objective was to articulate my knowledge of Cisco systems and OSPF configurations while demonstrating "soft skills" like conflict resolution. 
+I aimed to provide structured, insightful answers to five key industry questions.
+
+### Action
+I used the STAR method to ensure my answers were grounded and specific:
+* **Tell me about yourself**: I focused on my hands-on experience with hierarchical network designs.
+* **Conflict Resolution**: I described a time during a network topology project where I used objective data to resolve a disagreement with a colleague over routing protocols.
+* **Industry Insight**: I discussed the critical challenge of balancing universal connectivity with cybersecurity complexity—a topic I explored during the SANREN Cyber Security Challenge.
+
+### Result
+Recording and reviewing this interview helped me define myself as "Analytical." 
+It significantly boosted my confidence in explaining complex networking concepts and proved that I can remain calm and logical when faced with difficult technical or interpersonal scenarios.
+
+---
+<div style="text-align: center; margin: 20px 0;">
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #2c3e50; display: inline-block; padding-bottom: 5px;">
+    Reflection: Use of GitHub Pages
+  </h2>
+</div>
+
+### Situation
+As a student pursuing a Diploma in ICT Network Communications at the Cape Peninsula University of Technology, I needed a professional hosting solution to present my digital portfolio. 
+The rubric specifically required a live deployment to showcase my work and technical readiness to the industry.
+
+### Task
+My objective was to utilize GitHub Pages to host my Markdown-coded CV and project reflections. 
+I aimed to ensure that my portfolio was functional, accessible, and professionally presented to secure the full weight allocated to the publication criteria in my assessment.
+
+### Action
+I took the following steps to deploy my portfolio
+* **Repository Setup**: Created a dedicated repository on GitHub to manage and version-control my source files.
+* **Deployment Configuration**: Configured the repository settings to enable GitHub Pages, successfully turning my static Markdown code into a live, accessible website.
+* **Content Integration**: Integrated my professional experience, including key projects like the SANREN Cyber Security Challenge and Hierarchical Network Designs, into the hosted environment.
+* **Quality Assurance**: Verified that all links, images, and formatting remained intact during the transition from local files to the live web environment.
+
+### Result
+Successfully publishing on GitHub Pages resulted in a live, professional URL that serves as a central hub for my technical deliverables. 
+This process demonstrated my ability to handle version control and web deployment, proving my technical competency and readiness for a professional role in the ICT industry.
+
+---
