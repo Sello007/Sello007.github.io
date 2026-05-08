@@ -109,7 +109,7 @@ I aimed to provide structured, insightful answers to five key industry questions
 I used the STAR method to ensure my answers were grounded and specific:
 * **Tell me about yourself**: I focused on my hands-on experience with hierarchical network designs.
 * **Conflict Resolution**: I described a time during a network topology project where I used objective data to resolve a disagreement with a colleague over routing protocols.
-* **Industry Insight**: I discussed the critical challenge of balancing universal connectivity with cybersecurity complexity—a topic I explored during the SANREN Cyber Security Challenge.
+* **Industry Insight**: I discussed the critical challenge of balancing universal connectivity with cybersecurity complexity a topic I explored during the SANREN Cyber Security Challenge.
 
 ### Result
 Recording and reviewing this interview helped me define myself as "Analytical." 
