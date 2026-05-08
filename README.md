@@ -1,7 +1,8 @@
-<div align="center">
-
-# SELLO DEN MAKUNYANE
-
+<div style="text-align: center;">
+  <h1 style="font-size: 3em; font-weight: bold; color: #2E8BC0; margin-bottom: 0;">
+    SELLO DEN MAKUNYANE
+  </h1>
+  <hr style="width: 20%; margin: 10px auto; border: 1px solid #2E8BC0;">
 </div>
 
 ---
