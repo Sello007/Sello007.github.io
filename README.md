@@ -1,4 +1,9 @@
-### Sello Den Makunyane
+<div align="center">
+
+# Sello Den Makunyane
+
+---
+</div>
 
 ---
 
