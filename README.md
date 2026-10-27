@@ -9,9 +9,10 @@ Welcome to my central developer hub!
 <div align="center">
 
 ### 👉 **[📂 CLICK HERE: View CareerCraft SA E-Portfolio](https://sello007.github.io/careercraft-portfolio/)**
+
 </div>
 
-> 🔗 **Live Web Application:** **[careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)**   
+  
 
 ---
 
