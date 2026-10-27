@@ -1,6 +1,6 @@
 Welcome to my central developer hub! 
 
-# 🚀 Sello Makunyane — Developer Portfolio
+# 🚀 Sello Den Makunyane — Portfolio
 
 ---
 
