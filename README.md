@@ -6,11 +6,9 @@ Welcome to my central developer hub!
 
 ## 🌟 Featured Project & Capstone Portfolio
 
-<div align="center">
-
-### 👉 **[📂 CLICK HERE: View CareerCraft SA E-Portfolio](https://sello007.github.io/careercraft-portfolio/)**
-
-</div>
+<h3 align="center">
+  👉 <a href="https://sello007.github.io/careercraft-portfolio/"><strong>📂 CLICK HERE: View CareerCraft SA E-Portfolio</strong></a>
+</h3>
 
   
 
