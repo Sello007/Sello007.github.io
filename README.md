@@ -389,5 +389,9 @@ Integrated core frontend navigation, responsive CTA hero sections ("Build My Car
 ![Business Model Canvas](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/business-model-canvas.png.png)  
 *Outlines CareerCraft’s core value propositions, South African market customer segments, cost structures, and sustainable R49/month revenue streams.*
 
+**Figure 12.7:** Agile Team Charter & Member Roles  
+![Agile Team Charter](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/team-charter.png.png)  
+*Outlines the team's mission, vision, sprint framework, and member responsibilities for Livhuwani, Lwandile, Sello, and Lerato.*
+
 ---
 *© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team.*
