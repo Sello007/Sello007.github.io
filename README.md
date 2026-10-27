@@ -1,10 +1,9 @@
  <div align="center">
 
-## SELLO DEN MAKUNYANE
+# 💻 Sello Makunyane — Portfolio
 
 </div>
 
-# 💻 Sello Makunyane — Developer Portfolio
 
 Welcome to my central developer hub! 
 
