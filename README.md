@@ -154,7 +154,7 @@ Successfully publishing on GitHub Pages resulted in a live, professional URL tha
 This process demonstrated my ability to handle version control and web deployment, proving my technical competency and readiness for a professional role in the ICT industry.
 
 ---
-
+<br><br>
 <br><br>
 
 ## 🌟 Executive Summary & Project Introduction
