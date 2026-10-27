@@ -358,31 +358,31 @@ Integrated core frontend navigation, responsive CTA hero sections ("Build My Car
 
 ---
 
-## 12. 📸 Evidence & Screenshots Gallery
+## 12. 📷 Evidence & Screenshots Gallery
 
 **Figure 12.1:** Live CareerCraft Netlify Web Portal Landing Page (`careercraft-sa.netlify.app`)  
-![CareerCraft Landing Page](assets/screenshots/careercraft-landing-page.png.png)  
+![CareerCraft Landing Page](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/careercraft-landing-page.png.png)  
 *Showcases the live frontend user interface powered by Netlify, highlighting core CTAs ("Build My Career Profile", "Compare Plans") and responsive navigation.*
 
 **Figure 12.2:** Trello Product Backlog Management & Research Card  
-![Trello Product Backlog](assets/screenshots/trello-product-backlog.png.png)  
+![Trello Product Backlog](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/trello-product-backlog.png.png)  
 *Demonstrates agile backlog grooming, task checklists, and research card management for South African job market trends.*
 
 **Figure 12.3:** Low-Fidelity UI Wireframes  
-![Low-Fidelity Wireframes](assets/screenshots/low-fi-wireframes.png.png)  
+![Low-Fidelity Wireframes](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/low-fi-wireframes.png.png)  
 *Structural wireframe planning for user onboarding, profile setup, marketplace/portal navigation, and account settings.*
 
 **Figure 12.4:** High-Fidelity Mobile UI App Flow  
-![High-Fidelity Mobile Screens](assets/screenshots/high-fi-mobile-screens.png.png)  
+![High-Fidelity Mobile Screens](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/high-fi-mobile-screens.png.png)  
 *Comprehensive mobile user interface design flow detailing sign-up, search, catalog filtering, cart, delivery, and checkout workflows.*
 
 **Figure 12.5:** End-to-End Solution Architecture Diagram  
-![Solution Architecture](assets/screenshots/solution-architecture.png.png)  
+![Solution Architecture](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/solution-architecture.png.png)  
 *Details the technical architecture, AI orchestration layer (OpenAI/Anthropic integration), job matching engine, and cross-cutting security layers.*
 
 **Figure 12.6:** Business Model Canvas Strategy  
-![Business Model Canvas](assets/screenshots/business-model-canvas.png.png)  
-*Outlines CareerCraft's core value propositions, South African market customer segments, cost structures, and sustainable R49/month revenue streams.*
+![Business Model Canvas](https://raw.githubusercontent.com/Sello007/careercraft-portfolio/main/assets/screenshots/business-model-canvas.png.png)  
+*Outlines CareerCraft’s core value propositions, South African market customer segments, cost structures, and sustainable R49/month revenue streams.*
 
 ---
 *© 2026 CareerCraft South Africa & Catalyst Youth Innovation Team.*
