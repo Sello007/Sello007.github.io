@@ -155,6 +155,8 @@ This process demonstrated my ability to handle version control and web deploymen
 
 ---
 
+<br><br>
+
 ## 🌟 Executive Summary & Project Introduction
 Welcome to the official digital e-portfolio for **CareerCraft South Africa**, an all-in-one digital career engineering portal and AI-powered career ecosystem designed specifically to bridge the gap between academic graduation and professional employment for South African students and graduates. 
 
