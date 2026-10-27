@@ -6,20 +6,19 @@
 
 Welcome to my central developer hub! 
 
-<div style="background-color: #f6f8fa; border: 2px solid #0969da; border-radius: 10px; padding: 24px; margin: 20px 0; text-align: center;">
-    <h2 style="margin-top: 0; color: #0969da; font-size: 24px;">🚀 Featured Project: CareerCraft SA</h2>
-    <p style="font-size: 16px; color: #57606a;">AI-Powered Career Engineering Portal — CPUT PRP370S Capstone Documentation</p>
-    
-    <a href="https://sello007.github.io/careercraft-portfolio/" 
-       style="display: inline-block; background-color: #0969da; color: white; font-size: 18px; font-weight: bold; padding: 14px 28px; text-decoration: none; border-radius: 8px; margin: 10px 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-       📂 Explore Full E-Portfolio
-    </a>
+# 🚀 Sello Makunyane — Developer Portfolio
 
-    <a href="https://careercraft-sa.netlify.app" 
-       style="display: inline-block; background-color: #2da44e; color: white; font-size: 18px; font-weight: bold; padding: 14px 28px; text-decoration: none; border-radius: 8px; margin: 10px 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-       🌐 Launch Live App
-    </a>
-</div>
+---
+
+## 🌟 Featured Project & Capstone Portfolio
+
+### 👉 **[📂 CLICK HERE: View CareerCraft SA E-Portfolio](https://sello007.github.io/careercraft-portfolio/)**
+
+> 🔗 **Live Web Application:** **[careercraft-sa.netlify.app](https://careercraft-sa.netlify.app)**  
+> 📄 **Academic Module:** CPUT PRP370S Capstone Project  
+> 💡 **Focus:** AI-Powered Career Engineering & ATS Optimization  
+
+---
 
 ## 🚀 Featured Capstone Project
 * **[CareerCraft SA E-Portfolio](https://sello007.github.io/careercraft-portfolio/)** — Comprehensive CPUT PRP370S Capstone Documentation & Solution Architecture.
