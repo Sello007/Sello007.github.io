@@ -103,7 +103,7 @@ This process resulted in a clean, professional, and version-controlled CV that a
 ---
 <br><br>
  
-   ## 🎥 <u>Mock Interview Video</u>
+ ## 🎥 <u> Mock Interview Video</u>
 
 (https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
 
