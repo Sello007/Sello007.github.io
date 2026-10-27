@@ -16,7 +16,7 @@
 
 * [CareerCraft SA E-Portfolio](https://sello007.github.io/careercraft-portfolio/) — Comprehensive CPUT PRP370S Capstone Documentation & Solution Architecture.
 * [Live App Platform](https://careercraft-sa.netlify.app) — Interactive Web Application hosted on Netlify.
-* [Trello Link](https://trello.com/invite/b/69f77f11044ac5bb3870ce99/ATTI8cb0e82e49b78ca3fec0eac572c4d35db5344AF5/careercraft) — Product Backlog
+
 ---
 
 ## 🚀 Objective
