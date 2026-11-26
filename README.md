@@ -99,7 +99,7 @@ This process resulted in a clean, professional, and version-controlled CV that a
  
 ## 🎥 <u> Mock Interview Video</u>
 
-(https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)
+[(https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)](https://drive.google.com/file/d/1UXmf8zX9QCEI5dLx37b6G9FfGGzzTYGG/view?usp=sharing)
 
 ---
 
