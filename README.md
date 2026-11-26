@@ -101,6 +101,30 @@ This process resulted in a clean, professional, and version-controlled CV that a
 
 [(https://drive.google.com/file/d/1G6V9kubfNJ7PbkFEC1kSHnelN2Of9nQ-/view?usp=sharing)](https://drive.google.com/file/d/1UXmf8zX9QCEI5dLx37b6G9FfGGzzTYGG/view?usp=sharing)
 
+
+
+# 🎬 My Video
+
+<p align="center">
+  <strong>Watch my video below</strong>
+</p>
+
+<p align="center">
+  <iframe
+    src="https://drive.google.com/file/d/1UXmf8zX9QCEI5dLx37b6G9FfGGzzTYGG/preview"
+    width="100%"
+    height="480"
+    allow="autoplay"
+    allowfullscreen>
+  </iframe>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1UXmf8zX9QCEI5dLx37b6G9FfGGzzTYGG/view?usp=sharing">
+    📺 If the video player doesn't load, click here to watch the video.
+  </a>
+</p>
+
 ---
 
 ## 🤝 <u> Reflection: Mock Interview Experience</u>
