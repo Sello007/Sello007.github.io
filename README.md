@@ -1,4 +1,4 @@
-# 🚀 Sello Den Makunyane — Portfolio
+# 🚀 Sello Den Makunyane
 
 ---
 
@@ -12,13 +12,7 @@
 
 ---
 
-## 🚀 Featured Capstone Project
 
-* [CareerCraft SA E-Portfolio](https://sello007.github.io/careercraft-portfolio/) — Comprehensive CPUT PRP370S Capstone Documentation & Solution Architecture.
-* [Trello Link](https://trello.com/invite/b/69f77f11044ac5bb3870ce99/ATTI8cb0e82e49b78ca3fec0eac572c4d35db5344AF5/careercraft) — Product Backlog
-* [Live App Platform](https://careercraft-sa.netlify.app) — Interactive Web Application hosted on Netlify.
-
----
 
 ## 🚀 Objective
 I am an insightful young man driven to become a successful business leader in the technology industry. I aim to use my knowledge to help companies develop innovative products and services that improve lives globally. Furthermore, I am committed to creating equitable and inclusive workplaces while inspiring others to reach their full potential.
